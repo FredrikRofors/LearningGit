@@ -1,3 +1,4 @@
 detta är test2.txt
 this is hotfix!
 this is hotfix2!
+modified in development branch
